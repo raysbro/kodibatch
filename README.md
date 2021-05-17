@@ -1,2 +1,2 @@
 # kodibatch
-Batch installer for a bic kodi streaming setup
+Batch installer for a basic kodi streaming setup
